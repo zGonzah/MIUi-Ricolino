@@ -1,2 +1,2 @@
-# MIUi-Ricolino
+# MIUI-Ricolino
 a Custom MIUI Rom.
